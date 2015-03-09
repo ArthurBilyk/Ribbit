@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Mega\javaProjects\android_apps\Ribbit\app\libs\Parse-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56dfc827c23c1f0be64eff2ef556633ea95b16ad">
+        <dex dex="D:\Mega\javaProjects\android_apps\Ribbit\app\build\intermediates\pre-dexed\debug\Parse-1.8.3-04ad6113d94f3d735b990a0441b42cd7a677e2b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\notepc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Mega\javaProjects\android_apps\Ribbit\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c9affd7641eafedc5717e30049b35374b785336c.jar" />
+    </item>
+    <item
+        jar="C:\Users\notepc\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\Mega\javaProjects\android_apps\Ribbit\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-349fe164aadf3d40dffe30751362d5f0841b16be.jar" />
+    </item>
+    <item
+        jar="C:\Users\notepc\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\Mega\javaProjects\android_apps\Ribbit\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-3996893d386997c6d3f95f428ccf86e3b5b943a2.jar" />
+    </item>
+
+</items>
